@@ -1,6 +1,6 @@
 ### Hola, It's me, Tomeu 👋
 
-I have been working and playing with computers since I was a kid. I have always been fascinated by how much "magic" it was that with a few words you could create anything on the screen. I have been working as a Frontend Engineer for the past 5 years and am still excited when new challenges come along. I consider myself a friendly, passionate, and enthusiastic engineer 🤩
+As a seasoned Software Engineer specialized in Frontend Development, I am passionate about delivering exceptional user experiences. With over six years of experience in the field, I possess a deep understanding of how to create reliable, maintainable code that meets the unique needs of users. With a friendly and collaborative approach, I am committed to building strong relationships with cross-functional teams to achieve shared goals. My user-centric approach focuses on crafting engaging web journeys that deliver a lasting impact and drive business growth.
 
 ### You can find me 👇
 
